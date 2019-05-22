@@ -1,0 +1,12 @@
+WHAT ARE THE PARTS OF A VIEW?
+-- Each view can have one or more displays, each of which produces one type of output:
+    -- Page: makes output at a particular URL, for the main page content at that URL
+    -- Block: makes output in a block, which can be placed on pages.
+    -- Feed: makes an RSS or another type of feed.
+    -- Attachment: makes output that you can attach to another display
+    -- Format: Depending on the display type, you can choose to output your data in a table, grid, HTML list, or another format. Some formats also give you a second choice that lets you output either rendered entities or fields; other formats do not give you this choice (EX: tables always must have fields)
+    -- Fields: depending on the format choice, you may be able to choose which content fields are output.
+    -- Filter criteria: Filters limit the data to be output, based on criteria such as whether the content has been published or not, the type of content, or a field value.
+    -- Sort critieria: Defines the order to present the output, which can be based on any content field.
+    -- Contextual filters: like rgular filters, except that the values come from the "context" of the view display, such as the full URL of the page being displayed, the current date and time, or some other value that can be detected by the view calculation.
+    -- Relationships: allow you to expand what is dispalyed by your view, by relating the base content being displayed to other content entities.

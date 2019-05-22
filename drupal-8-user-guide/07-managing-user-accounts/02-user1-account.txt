@@ -1,0 +1,14 @@
+WHAT IS THE USER1 ACCOUNT?
+-- During the installation of your site, you created the first user account. Each user account internally has a numeric user ID and since the ID of this user is one, it is commonly referred to as the "user 1 account".
+-- This user account is special because it automatically has permission to do all actions on the site.
+-- Because of this level of permission, some people refer to this account as the "root user", similar to the "root" user account that has full administrative permissions in Linux and other operating systems.
+-- It is usually better to make separate accounts for each administrative user, giving them all the "administrator" role instead of having them all use the user1 account.
+    Because
+        -- Some actions and updates on the site are logged, helps differentiate between who's done what.
+        -- Administrator role can be modified to be safer than full permissions of the user 1 account, so that people do not inadvertently change site features that shouldn't be changed.
+        -- People's responsibilities on a site may change over time.
+        -- The author of content or comments is displayed or tracked, and if everyone uses the same account to create content, it is difficult to know who created the content.
+
+-- It is not possible to delete User 1 account.
+    -- Except with a database query.
+    -- It would cause problems with your site and is not advisable.

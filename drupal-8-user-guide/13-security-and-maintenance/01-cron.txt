@@ -1,0 +1,3 @@
+WHAT ARE CRON TASKS?
+-- To ensure that your site and its modules continue to function well, a group of administrative operations should be run periodically. These operations are called "cron" tasks.
+    -- EX: checking for module and theme updates, indexing content for search, or cleaning up temporary files.

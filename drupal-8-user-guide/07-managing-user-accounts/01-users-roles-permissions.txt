@@ -1,0 +1,14 @@
+WHAT ARE USERS?
+-- Anyone who visits your website is a "user", including you.
+-- Three groups of users:
+    -- not logged in, or "anonymous users"
+    -- logged in, or "authenticated users"
+    -- administrative user account that was automatically created
+
+WHAT ARE PERMISSIONS?
+-- The ability to do actions on your site (including viewing content, editing content, and changing configuration) is governed by "permissions".
+-- Each permission has a name and covers one action or small subset of actions.
+
+WHAT ARE ROLES?
+-- Rather than assigning individual permissions directly to each user, permissions are grouped into "roles".
+-- It is a good practice to create several roles on your site.

@@ -1,0 +1,11 @@
+WHAT ARE SECURITY UPDATES?
+-- Any software occasionally has bugs, and sometimes these bugs have security implications. When swecurity bugs are fixed in the core software, modules, or themes that your site uses, they are released in a "security update".
+
+WHAT IS THE SECURITY TEAM?
+-- The Drupal open-source project has a team of volunteers who track security-related bugs and release security updates. They also help developers fix bugs, and maintain information for users on how to keep their websites secure.
+
+HOW ARE SECURITY BUGS REPORTED?
+-- It is important that security problems be kept confidential until they are fixed, so that sites are less likely to be compromised before they can be secured. Follow the procedures on the Drupal.org Security Team page to report it.
+
+WHAT ARE REGULAR (NON-SECURITY) UPDATES?
+-- The core software, modules, and themes also periodically have regular updates to add new features and fix bugs. These updates are less critical than security updates.

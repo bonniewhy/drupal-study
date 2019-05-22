@@ -1,0 +1,4 @@
+WHAT IS A BLOCK?
+-- "Blocks" are individual pieces of your site's web page layout. They are placed inside the regions of your theme, and can be created, removed, and rearranged.
+-- Some modules make new blocks available for placement on your site.
+-- Each block ahs its own configuration settings, which allow you to selec twhich pages of your site will display the block. It is even possible to place multiple copies of a block, each with its own separate configuration and visibility rules.

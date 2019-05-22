@@ -1,0 +1,18 @@
+WHAT IS A VIEW?
+-- A "view" is a listing of content on a website.
+-- The core Views module handles the display of views, and the core Views UI module allows you to create and edit them in the administrative interfae.
+-- When you define views, you are interested in taking data from your website and displaying it to the user.
+
+WHAT TYPES OF DATA CAN BE DISPLAYED USING VIEWS?
+-- You can create views to output practically any content entity that is stored in the system.
+
+WHAT ARE THE WAYS DATA CAN BE OUTPUT USING VIEWS?
+-- A listing created by a view can be any of the following forms:
+    -- Table with sortable fields
+    -- Grid layouts
+    -- Teasers or pictures that link to articles
+    -- Blocks
+    -- JSON output
+    -- RSS feeds
+    -- Calendars
+    -- On-screen slideshows
