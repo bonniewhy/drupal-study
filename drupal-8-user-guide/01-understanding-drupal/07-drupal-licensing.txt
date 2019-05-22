@@ -1,0 +1,9 @@
+WHAT IS DRUPAL LICENSING?
+-- Drupal and all contributed files hosted on Drupal.org are licensed under the GNU General Public License (GPL), version 2 or later.
+    -- You are free to download, reuse, modify, and distribute any files that are part of a project on Drupal.org under the terms.
+-- Drupal contributors should follw these guidelines:
+    -- All files (PHP, JavaScript, images, Flash, etc) that are part of a project on Drupal.org have to be under GPL v2 or later.
+    -- All Drupal contributors retain copyright on their code, but agree to release it under the same license as Drupal.
+    -- Drupal modules and themes are a derivative work of Drupal. If you distribute them, you must do so under the terms of GPL v2 or later.
+    -- All content on Drupal.org itself is copyrighted by its original contributors, and is license under the Creative Commons Attribution-ShareAlike license 2.0
+    -- Sample code on Drupal.org is also available under GPL v2 or later.

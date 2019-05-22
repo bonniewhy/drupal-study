@@ -1,0 +1,10 @@
+WHAT IS A MODULE?
+-- A module is a set of PHP, JavaScript, and/or CSS files that extends site features and adds functionality.
+    -- You can turn the features and functionality on by "installing" the module, and you can turn it off by "uninstalling" the module.
+    -- Each module that is installed adds to the page load time.
+
+-- The core download provides the following modules for functionality:
+    -- Managing user accounts (the core User module)
+    -- Managing basic content (the core Node module) and fields (the core Field and Field UI modules; there are also          core modules providing field types)
+    -- Managing navigation menus (the core Menu UI module)
+    -- Making lists, grids, and blocks from existing content (the core Views and Views UI modules)

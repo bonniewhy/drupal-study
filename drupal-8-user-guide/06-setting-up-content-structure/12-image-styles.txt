@@ -1,0 +1,2 @@
+WHAT ARE IMAGE STYLES?
+-- Image styles allow you to upload a single image but display it in several ways; each display variation, or "image style", is the result of applying one or ore "effects" to the original image.

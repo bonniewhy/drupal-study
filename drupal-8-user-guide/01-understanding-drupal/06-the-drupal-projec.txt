@@ -1,0 +1,15 @@
+WHAT IS FREE AND OPEN SOURCE SOFTWARE?
+-- Free and Open Source Software (FOSS) is software that is developed by a communicty of people, released under a non-commercial license, and whose "source code" is freely available.
+
+WHAT IS THE DRUPAL PROJECT?
+-- The Drupal project is a FOSS project whose purpose is to develop the core content management system software, as well as add-on modules, additional themes, translations, documentation, and special purpose distributions.
+
+WHAT IS THE DRUPAL ASSOCIATION?
+-- The Drupal Association is a non-profit organization dedicated to supporting the rupal project and community.
+-- Its main functions are:
+    -- Putting on large conventions around the world
+    -- Maintaining the Drupal.org website
+    -- Promoting Drupal as a web platform
+    -- Supporting Drupal education and training
+    -- Providing grants to the Drupal community in support of its mission
+    -- Raising funds for these purposes

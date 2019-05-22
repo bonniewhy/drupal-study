@@ -1,0 +1,15 @@
+WHAT ARE FORMS AND WIDGETS?
+-- The content management system software that your site is running allwos administrators to edit content and configure sttings online, using various web "forms".
+-- "Content editing forms" are used to edit your site's content, and they are configurable by administrators.
+-- "Settings configuration forms" are provided by modules and cannot themselves be configured.
+-- A widget defines the method used to enter the data for the field.
+
+-- Your site's content is stored in one or more fields that are attachd to the content type and/or sub-type.
+-- When you configure the content editing form for each content sub-type, you can:
+    -- Select a widget for each field.
+    -- Configure widget settings.
+    -- Hide one or more fields from the editing form.
+    -- Reorder the fields.
+
+-- In principle, you can also have multiple content editing forms available for each content sub-type. This feature is rarely used.
+    -- The only exception in common use is for the user profile fields: you can use different forms for user registration and user editing.

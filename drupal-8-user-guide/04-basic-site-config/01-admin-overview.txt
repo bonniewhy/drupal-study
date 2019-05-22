@@ -1,0 +1,15 @@
+WHAT IS THE ADMINISTRATIVE MENU?
+-- The toolbar provided by the core Toolbar module displays the "Manage" administrative menu at the top or left side of the site, for users with permission to see it.
+-- Core installation includes:
+    -- Content: Lists and manages existing content, and allows creation of new content
+    -- Structure: Contains a list of links for managing structural elements of the site, such as blocks, content types, menus, and taxonomy.
+    -- Appearance: manages thems and appearance-related settings.
+    -- Extend: Manages teh installation and uninstallation of modules.
+    -- Configuration: Contains links to settings pages for various site features.
+    -- People: Manages users, roles, and permissions.
+    -- Reports: Contains links to logs, update information, search information, and other information about the site's status.
+    -- Help: Lists help topics for installed modules that provide them.
+
+WHAT ARE CONTEXTUAL LINKS?
+-- Contextual links take you to some take you to some of the same pages that you can access through the administrative menu, but instead of having to navigate through the menu hierarchy, these links are provided near where the related content is displayed on your site. AKA: little edit pencil icons are an example of these.
+-- Contextual links have to be activated to be visible.

@@ -1,0 +1,12 @@
+WHAT IS EDITORIAL WORKFLOW?
+-- An "editorial workflow" is the process organizations follow to create, review, edit,     and publish content.
+
+WHAT TOOLS ARE AVAILABLE FOR MANAGING WORKFLOWS?
+-- Published/Unpublished status
+    -- The Content item entity type supports marking each content item as either Published or Unpublished. Viewing permissions are separate for published and unpublished content.
+-- Revision tracking
+    -- Some content entity types support revision tracking, meaning that as content is revised, the software stores the older revisions, so that they can be compared or reverted.
+-- Workflows
+    -- The core Workflows module lets you define workflow states and transitions, beyond just having content be published or unpublished. The cojmpanion core Content Moderation module lets you assign permissions and roles ot the workflow transitions.
+-- Block placement
+    -- The Custom block content entity lets you create a custom block and edit it, but only make it visible on the site once it is ready.

@@ -1,0 +1,13 @@
+WHAT LANGUAGES DOES THE SOFTWARE SUPPORT?
+-- The base language for the software that your site runs (core software, modules, and themes) is English. However, using this software you can create a site whose default language is not English, in which case anyone viewing the site should see only that language (assuming that the site is fully translated).
+
+WHAT CAN BE TRANSLATED ON YOUR SITE?
+-- User interface text
+    -- Built-in text present in the core software, modules, and themes.
+-- Configuration text
+    -- Text whose structure and initial values are defined by the core software, modules, and themes, but that you can edit.
+-- Content text and files
+    -- If your sit is multilingual, you can configure the content fields on your site to be translatable.
+
+WHAT INFORMATION WILL REMAIN IN ENGLISH ON MY SITE?
+-- Even if the default language of your site is not English, you will still see English text on certain administrative pages used ot manage configuration. The reason is taht when you edit configuration, y ou are editing the base, untranslated configuration values; translating configuration is a separate operation.

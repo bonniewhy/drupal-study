@@ -1,0 +1,14 @@
+WHAT IS A REFERENCE FIELD?
+-- A "reference field" is a field that represents a relationship between an entity and one or more other entities, which may belong to the same or different entity type.
+-- The 3 most commonly used reference fields are:
+    1. Content reference
+        -- A reference to a content item.
+        -- EX: Connect recipes to a vendor that submitted it/
+
+    2. Taxonomy term reference
+        -- A reference to a taxonomy term.
+        -- EX: You might want to connect recipes to their ingredients.
+
+    3. User reference
+        -- A reference to a user account.
+        -- EX: Connect recipes with thier chefs.

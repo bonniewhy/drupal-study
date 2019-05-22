@@ -1,0 +1,3 @@
+WHAT IS MODULAR CONTENT?
+-- "Modular content" means that certain pages on your site, rather than being edited as a whole page, are instead generated automatically from other content items.
+    -- Each piece of information is only edited in one place so it can be automatically         updated across the entire site.

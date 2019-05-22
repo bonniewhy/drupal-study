@@ -1,0 +1,8 @@
+WHAT IS A URL?
+-- URL is the abbreviation for "Uniform Resource Locator", which is the page's address on the web.
+
+WHAT IS A PATH?
+-- A path is the unique, last part of the URL for a specific function or piece of content.
+
+WHAT IS AN ALIAS?
+-- A ore understandable name to the content in case your path is confusing or non-descriptive. EX: node/7 --> example.com/aboutus

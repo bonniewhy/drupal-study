@@ -1,0 +1,13 @@
+WHAT ARE TEXT FORMATS AND FILTERS?
+-- "Text formats" change how HTML tags and other text are processed and displayed on your site. THey are composed of a series of "filters" each of which transforms the text.
+-- When users create content, a text format is associated with the content, and the full, original text is stored in a database. The content is then passed through the filters in the text format before being displayed.
+-- The core Filter module provides text format functionality, and the core Standard installation profile sets up Basic HTML, Restricted HTML, and Full HTML text formats.
+
+WHAT ARE THE EDITORS ASSOCIATED WITH TEXT FORMATS?
+-- Each text format can be associated with an editor, such as a visual WYSIWYG HTML editor.
+-- The core Text Editor module provides the ability to associate editors with text formats, and to configure the editors (such as adding and removing buttons from their toolbars).
+-- The core CKEditor module provides the industry-standard editor known as CKEditor, so that it can be used to edit HTML content on your site.
+
+WHAT IS CROSS-SITE SCRIPTING?
+-- Cross-site scripting (XSS) is a security vulnerability typically found in websites.
+-- A cross-site scripting vulnerability may be used by attackers to login as another user. It is important to configure the text formats of your website to prevent such abuse.

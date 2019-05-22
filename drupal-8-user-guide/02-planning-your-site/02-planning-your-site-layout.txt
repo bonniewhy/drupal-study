@@ -1,0 +1,5 @@
+1. Make a list of the information that your site should present to visitors.
+2. Decide which information should be on which pages or types of pages on the site.
+3. Decide which information is the ost important on each page. Site visitors using mobile phones or other small browsers will often only see the content that is presented first, and they may not scroll down to see all of the information.
+4. Decide which of these pages should appear in the main site navigation.
+5. Make a rough design sketch for each page, showing how it would look when viewed on a small screen such as a phone, as well aso n a larger screen such as a desktop browser. It's a good idea to start with the phone-size layout to make sure these visitors will be able to find the information they need.

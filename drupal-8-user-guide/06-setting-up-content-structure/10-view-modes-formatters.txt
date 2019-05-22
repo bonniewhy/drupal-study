@@ -1,0 +1,11 @@
+WHAT IS A VIEW MODE?
+-- How an entity (such as content, a user or a command) is displayed, depends on the context    in which it is shown known as a "view mode".
+    -- EX:
+        -- a full page of content with all the field values
+        -- a teaser of the content with a thumbnail image and a "Read more" link
+        -- a full user profile with a zoomable portrait photo
+        -- a user avatar with username and link to the profile
+
+-- View modes can be configured through the administration pages.
+-- In each view mode, all fields can be hidden or displayed, and if they are displayed, you can choose and configure the filed formatter.
+-- A "field formatter" is a setting for displaying the field values.

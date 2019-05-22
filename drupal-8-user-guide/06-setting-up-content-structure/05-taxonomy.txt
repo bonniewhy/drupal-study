@@ -1,0 +1,17 @@
+WHAT IS TAXONOMY?
+-- "Taxonomy" is used to classify website content.
+-- EX: Tags used to classify or categorize posts in a blog website.
+
+-- Individual taxonomy items are known as "terms" (the blog tags or recipe ingredients in these examples); and a set of terms is known as a "vocabulary" (the set of all blog post tags, or the set of all recipe ingredients in these examples).
+
+-- Technically, taxonomy terms are an entity type and the entity subtypes are the vocabularies.
+-- An individual vocabulary can organize its terms in a hierarchy, or it could be flat.
+    -- EX: blog tags are flat, recipe ingredients could be hierarchical (carrots are a vegetable and they can be purple or orange, etc.)
+
+-- Taxonomy terms are normally attached as reference fields to other content entities, which is how you can use them to classify content.
+
+-- When you set up taxonomy reference fields, you can let users enter terms in two ways:
+    -- Free tagging: new terms can be created right on the content editing form.
+    -- Fixed list of terms: the list of terms is curated and managed outside the content editing form,a nd users can only choose from the existing list when editing content.
+
+-- Taxonomy reference fields can be added to any entity, such as user accounts, custom blocks, or regular content items.

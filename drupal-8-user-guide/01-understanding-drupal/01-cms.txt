@@ -1,0 +1,14 @@
+WHAT IS A CONTENT MANAGEMENT SYSTEM?
+-- A content management system (CMS) is a software tool that lets users add, publish, edit, or remove content from a website, using a web browser on a smartphone, tablet, or desktop computer.
+-- The combination of the operating system that the CMS runs on, the scripting language it is writtenin, the database it stores its information in, and the web server that runs the scripts to retrieve information and return it to the site visitor's web browser is known as the "stack" that the CMS runs on.
+
+WHAT IS DRUPAL?
+-- The LAMP stack is Linux operating system, Apache web server, MySQL database, and PHP scripting language.
+-- Drupal is a flexible CMS based on the LAMP stack, with a modular design allowing features to be added and removed by installing and uninstalling modules, and allowing the entire look and feel of the wbsite to be changed by insalling and uninstalling "themes".
+
+WHAT ARE THE REASONS FOR USING DRUPAL?
+-- Building a small, simple site with static HTML pages is not difficult, and you can get a simple site up very quickly.
+-- Drupal is a general-purpose CMS.
+    -- If your site falls even slightly outside the intended purpose of your CMS, you will probably be better off using a general-purpose CMS rather than trying to adapt a special-purpose CMS.
+-- Using a general-purpose CMS like Drupal as a starting point is a better idea then building your own from scratch.
+-- Drupal has a less restrictive software license, and is developed by a world-wide community.

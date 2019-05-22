@@ -1,0 +1,12 @@
+WHAT ARE THE TYPES OF DATA?
+-- CONTENT
+    -- Information (text, images, etc) meant to be displayed to site visitors. Tends to be relatively permanent, but         can normally be edited.
+
+-- CONFIGURATION
+    -- Information about your site that is not content, but is also relatively permanent and is used to define how your       site behaves or is displayed.
+
+-- STATE
+    -- Information of a temporary nature about the current state of your site, such as the time when cron jobs were           last run.
+
+-- SESSION
+    -- Information about individual site visitors' interactions with the site, such as whether they are logged in and         their cookies. Technically a subtype of "state" since it is also temporary.

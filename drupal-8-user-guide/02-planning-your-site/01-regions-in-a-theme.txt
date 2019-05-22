@@ -1,0 +1,4 @@
+WHAT IS A REGION?
+-- Besides its primary con3ent, a web page contains other content such as site branding (site name, slogan, and logo), navigation and aids (menus, links, and icons), formatted text, and images.
+-- Each theme provides a set of named regions, such as "Header", "Content", and "Sidebar".
+-- The available regions depend on the theme design. Only the "Content" region is required.

@@ -1,0 +1,5 @@
+WHAT ARE DISTRIBUTIONS?
+-- Distributions provide site features and functions for a specific type of site as a single downlaod containing the core software, contributed modules, themes, and pre-defined configuration.
+-- A distribution makes it possible to set up a complex site for a specific purpose, in fewer steps than installing and configuring elements individually.
+    -- FULL FEATURED DISTRIBUTIONS: a project that provides a complete solution to set up a site for a specialized purpose, such as academic, business, government, nonprofit, publishing, social, etc.
+    -- OTHER: can also be quick-start tools that developers and site builders can use as a starting point.
