@@ -1,0 +1,10 @@
+TRACK CHANGES WITH GIT --
+    -- Years ago, it was common to only work on a local copy of your site and upload any and all changed files using FTP. If you needed to recreate your dev environment on a different computer you would have to download all the files (including the database) onto the different computer.
+    -- It worked, but if a file wasn't transferred properly or at all, it could take hours of examining logs and debugging before you could uncover the problem. Worse, you didn't know exactly what changes were made; an accidental change to a file might take down your entire site.
+    -- We've solved this problem today but relying on a Version Control System (VCS).
+        -- Used to monitor all changes made to a collection of files (repository)
+        -- Monitor who made those changes, and when.
+        -- Distribute code to remote servers
+        -- Allows you to share your site code with a team of developers while assuring everyone has up-to-date files
+
+REMOTE REPOSITORIES
